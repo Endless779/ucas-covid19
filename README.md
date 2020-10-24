@@ -94,7 +94,7 @@ pause
 - 2020年6月14日 更新了README，添加有关触发action运行的说明
 - 2020年6月24日 适配了网站的字段的更新；添加了 debug模式隐藏打卡信息；github action直接输出打卡结果；移除了 serverless 方式的支持
 - 2020年9月16日 适配了网站的字段的更新
-- 2020年9月26日 更新了README，添加了使用windows计划任务的操作步骤
+- 2020年9月26日 更新了README，添加了使用windows计划任务的操作步骤  
 
 # 致谢
 - 感谢 [karuboniru](https://github.com/IanSmith123/ucas-covid19/pull/1) 提供的github actions 支持
